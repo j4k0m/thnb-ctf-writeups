@@ -98,7 +98,7 @@ for i in flag:
             print(chr(j), end="")
 ```
 
-![image](https://user-images.githubusercontent.com/48088579/163746375-5b4fbc26-96d3-4188-a08a-27fdc2c9f866.png)
+![image](https://user-images.githubusercontent.com/48088579/163897066-8dbb70fc-af4a-45de-96dd-7bd615c318d8.png)
 
 
 ## Loader
